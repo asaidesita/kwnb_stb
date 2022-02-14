@@ -1,0 +1,8 @@
+ID;baseCustomName;health;fatigue;chillTime;cal;
+0;starbuckslatte;4;4;21;256;
+1;cappuccino;4;2;9;100;
+2;cafemocha;4;2;15;300;
+3;whitemocha;1;1;18;300;
+4;caramelmacchiato;1;1;15;300;
+5;moussefoamlatte;1;2;19;300;
+6;null;1;5;20;0;

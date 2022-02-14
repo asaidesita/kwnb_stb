@@ -64,7 +64,7 @@ entity AllCustToppings: stbAspect {
 
 entity AllTemps: stbAspect {
     key ID: Integer;
-    allTemp: String;
+    allTempName: String;
 }
 
 entity Sizes: stbAspect {
@@ -84,7 +84,7 @@ type stbAspect: {
 }
 
 type OrderBase : {
-    baseDrinkID        : String;
+    baseDrinkID        : Integer;
     baseDrinkName      : String;
     baseCustomID       : Integer;
     baseCustomName     : String;
@@ -92,10 +92,12 @@ type OrderBase : {
     tlCustMilkName     : String;
     tlfrCustSyrupID    : Integer;
     tlfrCustSyrupName  : String;
-    tlfrCustSyrupShot  : Integer;
+    tlfrCustSyrupShotID  : String;
+    tlfrCustSyrupShotName  : String;
     allCustSyrupID     : Integer;
     allCustSyrupName   : String;
-    allCustSyrupShot   : Integer;
+    allCustSyrupShotID   : Integer;
+    allCustSyrupShotName   : Integer;
     allCustMilkID      : Integer;
     allCustMilkName    : String;
     allCustToppingID   : Integer;

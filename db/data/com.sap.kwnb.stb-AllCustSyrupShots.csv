@@ -1,0 +1,5 @@
+ID;allCustSyrupShotName;health;fatigue;chillTime;cal;
+0;less;4;5;14;100;
+1;normal;3;3;14;200;
+2;more;1;5;13;300;
+3;least;5;5;14;50;

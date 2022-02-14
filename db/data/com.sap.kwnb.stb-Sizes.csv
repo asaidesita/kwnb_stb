@@ -1,0 +1,5 @@
+ID;sizeName;health;fatigue;chillTime;cal;
+0;Tall;4;4;14;100;
+1;Short;5;3;8;120;
+2;Grande;3;5;15;150;
+3;Venti;2;4;19;200;

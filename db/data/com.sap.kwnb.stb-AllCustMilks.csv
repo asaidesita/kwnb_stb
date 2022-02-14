@@ -1,0 +1,8 @@
+ID;allCustMilkName;health;fatigue;chillTime;cal;
+0;normal;3;3;17;256;
+1;lowfatmilk;4;3;18;100;
+2;nofatmilk;4;3;18;50;
+3;soymilk;5;5;15;100;
+4;almondmilk;5;5;19;150;
+5;oatsmilk;5;4;17;100;
+6;brevemilk;1;4;15;300;

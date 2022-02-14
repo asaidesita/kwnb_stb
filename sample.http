@@ -1,0 +1,44 @@
+POST https://dbs-japan-shared-dev-demo-com-sap-kwnb-stb-srv.cfapps.jp10.hana.ondemand.com/catalog/Orders
+Content-Type: application/json
+
+{
+    "OrderID": 0,
+    "baseDrinkID": 0,
+    "baseDrinkName": "tea latte",
+    "baseCustomID": 0,
+    "baseCustomName": "uji maccha",
+    "tlCustMilkID": 0,
+    "tlCustMilkName": "standard milk",
+    "tlfrCustSyrupID": 0,
+    "tlfrCustSyrupName": "chai tea syrup",
+    "tlfrCustSyrupShotID": "2",
+    "tlfrCustSyrupShotName": "least",
+    "allCustSyrupID": 0,
+    "allCustSyrupName": "cinnamon",
+    "allCustSyrupShotID": 2,
+    "allCustSyrupShotName": 2,
+    "allCustMilkID": 0,
+    "allCustMilkName": "standard milk",
+    "allCustToppingID": 0,
+    "allCustToppingName": "roast nuts",
+    "allTempID": 0,
+    "allTempName": "very hot",
+    "sizeID": 0,
+    "sizeName": "tall",
+    "cal": 256,
+    "orderedAt": null
+}
+
+### 
+GET http://localhost:4004/catalog/Orders
+
+###
+POST https://dbs-japan-shared-dev-demo-com-sap-kwnb-stb-srv.cfapps.jp10.hana.ondemand.com/catalog/getStbRecommendation
+Content-Type: application/json
+
+{
+    "health": 0,
+    "fatigue": 0,
+    "baseType": 0,
+    "chillTime": 8
+}

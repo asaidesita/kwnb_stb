@@ -1,3 +1,7 @@
 ID;baseDrinkName;health;fatigue;chillTime;cal;
-0;tea latte;3;3;14;256;
+0;tea latte;3;4;14;256;
 1;espresso;4;2;8;100;
+2;frappuccino;4;4;15;400;
+3;coffee;3;3;9;100;
+4;cocoa;1;5;13;150;
+5;milk;1;5;20;100;

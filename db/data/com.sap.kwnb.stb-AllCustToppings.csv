@@ -1,0 +1,12 @@
+ID;allCustToppingName;health;fatigue;chillTime;cal;
+0;brownsuger;1;4;13;40;
+1;cinamon;5;5;15;0;
+2;morewhip;1;4;14;3000;
+3;lesswhip;2;4;17;2000;
+4;insidechoco;1;4;13;2000;
+5;outblockchoco;3;5;18;5000;
+6;outclopchoco;1;5;19;200;
+7;chocosauce;2;5;20;200;
+8;caramelsauce;2;5;17;100;
+9;shot;4;2;10;10;
+10;none;5;1;11;0;
