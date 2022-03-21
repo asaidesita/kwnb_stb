@@ -1,1 +1,14 @@
-{}
+{
+    "auth": {
+        "passport": {
+            "strategy": "mock", 
+            "users": {
+                "admin": { 
+                    "password": "dummy", 
+                    "ID": "admin",
+                    "roles": ["admin", "authenticated-user"]
+                }                        
+            }
+        }
+    }    
+}
